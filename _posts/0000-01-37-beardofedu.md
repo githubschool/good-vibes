@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to beardofedu's slide!"
 ---
 
 Going to my Girls who Code - Cincinnati !!!
