@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to rainbowpeppercorn's slide!"
 ---
 
 How many cats is too many cats? (There's no such number.)
